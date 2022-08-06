@@ -1,0 +1,45 @@
+RavenSwift - That's our name
+"Why use more apps if one is enough to get things done."
+
+Why this name?
+First Raven - In old times ravens were used to sending useful and necessary info to different locations, and that is the education sector of our app (just like Quora or ask.com) but more user 
+friendly.
+Then Swift - It stands for S-Snapchat W-Whatsapp I-Instagram, F-Facebook, T-Twitter. Our main category is Social Media, so we are trying to combine all the good things from all the 
+popular apps and make the best social media app ever. Our App will contain three parts-Social Media(think of Instagram more), then the messaging part will be inspired by WhatsApp 
+and the education I told you about before.
+
+Objective: The app aims to provide a sophisticated social media platform for all users. The app will be a very simple to use social networking app. A user-friendly interface will be provided to the users enabling more people to come online and connect with the social media world. They are solving their issues and enjoying themselves with their close ones.
+
+Social Media part- we will provide some new features like a user can also post audios. Then the best is they can also post a text with a character limit of 300 (just like 
+Twitter), which also puts in the category of microblogging app as the max text limit anywhere is 300. We will provide an option where your followers can comment publicly on your stories, but 
+the story won't be up for more than one day.An 'A+' icon will be shown if anything is adult content. Then we are thinking of adding four people to the getting live option, which is still 
+for two people.
+
+Messaging part- It will be full of options, making things easy for you. The interface will be different and easier to use. We are trying to see if we can provide games in this (like 
+Snapchat).In games, we will provide games like truth and dare, which can be played with video calls, and the video will focus on the player whose turns are on.Then in some games, audio call 
+option so people can enjoy the most. We are also trying for a different portal option where only those people can chat and send messages on call at that time; a person who wishes can 
+only go for texting during a video call or simply call.
+
+Education part- We wanted people to get answers to questions they hesitate to ask, so we provided an anonymous option to hide their identity. In education, we 
+also offer some features for governmental authorities like polls and surveys where govt. Can collect data without too much hassle by conducting online polls and surveys. Then the 
+achievements and campaigns feature where govt can show their achievements and inspire fellow citizens, and through campaigns, option govt can tell people what new would happen in the country.
+
+RavenSwift will start and look like this- The app will begin with a splash screen with an India logo on the bottom side with a bottom offset of 25px. If the user 
+is opening the app for the first time, this splash screen will be followed by some introductory screens showing application features. After that user will see a Sign in page or home 
+screen. On the sign-in screen, he can log in if he is already a user. He can also reset his password and go to this page's sign-up page. He will also be two more buttons to sign in through 
+Google or phone number. On the signup page, he can sign up using the email address, Google or phone number. The home screen will show feeds consisting of microblogs posted by other users you 
+are following. A bottom navigation bar will give you quick access to the Home, Search, Create, Notifications, and Account pages. An app bar on the top will be provided 
+on the home page giving quick access to the educational section and messaging.
+The education section will give you a similar page to the home screen with a back button on the app bar (leading to the home screen). This will consist of a floating button on the bottom right 
+allowing you to post an educational blog or a question. 
+
+Benefits - The benefits of the app are that people can chat, blog, call, and ask educational questions in one place. The government will also be given a platform through which it can do 
+polling and other questions, so lawmakers know what the public thinks about their decisions. Polling and question answers will also include statistical info so that results can be 
+easily analysed and understood. 
+The app will also have an Easter egg which is an Indian theme which will have tricolours all over the app, and an Earth theme with Blue and Green colours.
+Our goals are to make the best Social Media App for India and the whole world and earn money for ourselves.
+The plan of our team also includes giving 5 per cent of the revenue generated to stop climate change, a significant issue in today’s world.
+
+The current technologies used are Flutter and Firebase. 
+   
+More to tell.
